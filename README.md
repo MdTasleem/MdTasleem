@@ -1,7 +1,7 @@
-[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)]
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, Myself Md Tameem</h1>
 <h3 align="center">Welcome to my GitHub profile:) I'm passionate about data-driven decision-making and strategic analysis for empower businesses/ organization growth.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/premium-muslim-woman-programmer-character-working-front-laptop-vector-illustration_289688-416.jpg">
+<img align="right" alt="Coding" width="225" src="https://img.freepik.com/premium-vector/premium-muslim-woman-programmer-character-working-front-laptop-vector-illustration_289688-416.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtasleem&label=Profile%20views&color=0e75b6&style=flat" alt="mdtasleem" /> </p>
 
